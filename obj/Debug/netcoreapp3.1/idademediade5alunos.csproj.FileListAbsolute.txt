@@ -1,0 +1,11 @@
+C:\Users\Note positivo\Documents\idademediade5alunos\bin\Debug\netcoreapp3.1\idademediade5alunos.exe
+C:\Users\Note positivo\Documents\idademediade5alunos\bin\Debug\netcoreapp3.1\idademediade5alunos.deps.json
+C:\Users\Note positivo\Documents\idademediade5alunos\bin\Debug\netcoreapp3.1\idademediade5alunos.runtimeconfig.json
+C:\Users\Note positivo\Documents\idademediade5alunos\bin\Debug\netcoreapp3.1\idademediade5alunos.runtimeconfig.dev.json
+C:\Users\Note positivo\Documents\idademediade5alunos\bin\Debug\netcoreapp3.1\idademediade5alunos.dll
+C:\Users\Note positivo\Documents\idademediade5alunos\bin\Debug\netcoreapp3.1\idademediade5alunos.pdb
+C:\Users\Note positivo\Documents\idademediade5alunos\obj\Debug\netcoreapp3.1\idademediade5alunos.csprojAssemblyReference.cache
+C:\Users\Note positivo\Documents\idademediade5alunos\obj\Debug\netcoreapp3.1\idademediade5alunos.AssemblyInfoInputs.cache
+C:\Users\Note positivo\Documents\idademediade5alunos\obj\Debug\netcoreapp3.1\idademediade5alunos.AssemblyInfo.cs
+C:\Users\Note positivo\Documents\idademediade5alunos\obj\Debug\netcoreapp3.1\idademediade5alunos.dll
+C:\Users\Note positivo\Documents\idademediade5alunos\obj\Debug\netcoreapp3.1\idademediade5alunos.pdb

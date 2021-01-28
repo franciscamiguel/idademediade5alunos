@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Note positivo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Note positivo\\.nuget\\packages"
+    ]
+  }
+}
